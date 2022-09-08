@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ankit-mercer
+- 👋 Hi, I’m @gurkirat-mercer
 - 👀 I’m interested in Web develpoment
-- 🌱 I’m currently learning Angular
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
